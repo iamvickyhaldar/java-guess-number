@@ -3,7 +3,6 @@ class GuessNumber
 {
     public static void main(String[] args)
     {
-        // demo
         Scanner sc = new Scanner(System.in);
 
         int myNumber = (int)(Math.random()*100);
